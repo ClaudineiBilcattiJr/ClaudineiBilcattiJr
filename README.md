@@ -1,4 +1,3 @@
-# ClaudineiBilcattiJr
 <h1 align="center">Hi 👋, I'm Claudinei Bilcatti</h1>
 <h3 align="center">A System Engineer | DevOps | SRE from India</h3>
 
